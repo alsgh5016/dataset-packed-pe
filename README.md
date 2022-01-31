@@ -33,9 +33,10 @@ PECompact|compressor, protector
 PEtite|compressor, protector
 Packman|
 RLPack|
+Themida|virtualizer
 UPX|compressor
 WinUpack|
-Yoda-Crypter|
+Yoda-Crypter|protector
 Yoda-Protector|compressor, protector
 
 Example of visualization created with [Bintropy](https://github.com/dhondta/bintropy):
