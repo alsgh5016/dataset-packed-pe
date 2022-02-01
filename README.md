@@ -33,6 +33,7 @@ PECompact|compressor, protector
 PEtite|compressor, protector
 Packman|
 RLPack|
+TELock|compressor
 Themida|virtualizer
 UPX|compressor
 WinUpack|
