@@ -13,33 +13,6 @@ You may also like these:
 - [PEiD](https://github.com/dhondta/peid): Python implementation of the Packed Executable iDentifier (PEiD).
 - [PyPackerDetect](https://github.com/dhondta/PyPackerDetect): Packing detection tool for PE files.
 
-
-## :clipboard: Content
-
-Name|Type
----|---
-ASPack|compressor, protector
-BeRoEXEPacker|compressor
-exe32pack|compressor
-eXpressor|compressor, protector
-FSG|compressor
-JDPack|
-MEW|compressor
-MPRESS|
-Molebox|
-NSPack|
-Neolite|
-PECompact|compressor, protector
-PEtite|compressor, protector
-Packman|
-RLPack|
-TELock|compressor
-Themida|virtualizer
-UPX|compressor
-WinUpack|
-Yoda-Crypter|protector
-Yoda-Protector|compressor, protector
-
 Example of visualization created with [Bintropy](https://github.com/dhondta/bintropy):
 
 <p align="center"><img src="https://raw.githubusercontent.com/dhondta/docker-packing-box/main/docs/imgs/calc.png"></p>
