@@ -4,6 +4,7 @@ Name|Type
 ---|---
 ASPack|compressor, protector
 BeRoEXEPacker|compressor
+Enigma Virtual Box|virtualizer
 exe32pack|compressor
 eXpressor|compressor, protector
 FSG|compressor
