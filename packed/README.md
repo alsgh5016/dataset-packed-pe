@@ -2,6 +2,7 @@
 
 Name|Type
 ---|---
+Amber|
 ASPack|compressor, protector
 BeRoEXEPacker|compressor
 Enigma Virtual Box|virtualizer
