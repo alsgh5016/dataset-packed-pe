@@ -16,5 +16,5 @@ You may also like these:
 
 Example of visualization created with [Bintropy](https://github.com/packing-box/bintropy):
 
-<p align="center"><img src="https://raw.githubusercontent.com/packing-box/docker-packing-box/main/docs/imgs/calc.png"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/packing-box/docker-packing-box/main/docs/pages/imgs/calc.png"></p>
 
