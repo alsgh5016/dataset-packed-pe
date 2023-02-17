@@ -8,11 +8,13 @@ This is a fork of the dataset at [https://github.com/chesvectain/PackingData](ht
 You may also like these:
 
 - [Awesome Executable Packing](https://github.com/packing-box/awesome-executable-packing): A curated list of awesome resources related to executable packing.
-- [Bintropy](https://github.com/packing-box/bintropy): Analysis tool for estimating the likelihood that a binary contains compressed or encrypted bytes.
+- [Bintropy](https://github.com/packing-box/bintropy): Analysis tool for estimating the likelihood that a binary contains compressed or encrypted bytes (inspired from [this paper](https://ieeexplore.ieee.org/document/4140989)).
 - [Dataset of packed ELF files](https://github.com/packing-box/dataset-packed-elf): Dataset of ELF samples packed with many different packers.
 - [Docker Packing Box](https://github.com/packing-box/docker-packing-box): Docker image gathering packers and tools for making datasets of packed executables.
-- [PEiD](https://github.com/packing-box/peid): Python implementation of the Packed Executable iDentifier (PEiD).
-- [PyPackerDetect](https://github.com/packing-box/PyPackerDetect): Packing detection tool for PE files.
+- [DSFF](https://github.com/packing-box/python-dsff): Library implementing the DataSet File Format (DSFF).
+- [PEiD](https://github.com/packing-box/peid): Python implementation of the well-known Packed Executable iDentifier ([PEiD](https://www.aldeid.com/wiki/PEiD)).
+- [PyPackerDetect](https://github.com/packing-box/pypackerdetect): Packing detection tool for PE files (fork of [this repository](https://github.com/cylance/PyPackerDetect)).
+- [REMINDer](https://github.com/packing-box/reminder): Packing detector using a simple heuristic (inspired from [this paper](https://ieeexplore.ieee.org/document/5404211)).
 
 Example of visualization created with [Bintropy](https://github.com/packing-box/bintropy):
 
