@@ -1,6 +1,10 @@
 # Dataset of packed PE files
 
-This is a fork of the dataset at [https://github.com/chesvectain/PackingData](https://github.com/chesvectain/PackingData) with some samples sanitized (e.g. UPX-packed samples in the ´not-packed´ folder or samples with a same hash from the packer and `not-packed` folders). It also includes a folder named `outliers` containing samples we could identify as potentially disturbing our models, i.e. when they were sorted among the not packed samples while demonstrating characteristics of packed data. This dataset can be used for training machine learning models tailored to PE executable packing.
+This is a fork of the dataset at [https://github.com/chesvectain/PackingData](https://github.com/chesvectain/PackingData) with some samples sanitized (e.g. UPX-packed samples in the ´not-packed´ folder or samples with a same hash from the packer and `not-packed` folders).
+
+It also includes a folder named `outliers` containing samples we could identify as potentially disturbing our models, i.e. when they were sorted among the not packed samples while demonstrating characteristics of packed data. This dataset can be used for training machine learning models tailored to PE executable packing.
+
+Folder `labels` contains a [Python script](labels/generate-category-labels.py) for generating labels based on the packer categories mentioned in the table of [`packed` folder's `README.md`](packed/README.md) with the resulting JSON dictionaries.
 
 
 ## :star: Related Projects
