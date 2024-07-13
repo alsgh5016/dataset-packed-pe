@@ -2,7 +2,7 @@
 
 Name|Type
 ---|---
-Alienyze|compressor,crypor,protector
+Alienyze|compressor,cryptor,protector
 ASPack|compressor,protector
 Amber|?
 BeRoEXEPacker|compressor
